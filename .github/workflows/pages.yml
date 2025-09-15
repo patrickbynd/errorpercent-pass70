@@ -47,7 +47,7 @@ jobs:
             <url><loc>${BASE_URL}/legal.html</loc></url>
             <url><loc>${BASE_URL}/about.html?stall=1</loc></url>
             <url><loc>${BASE_URL}/products.html?stall=1</loc></url>
-            <url><loc>${BASE_URL}/fail.html</loc></url>
+            <url><loc>${BASE_URL}/index.html?stall=1</loc></url>
           </urlset>
           EOF
           cat > dist/robots.txt <<EOF
